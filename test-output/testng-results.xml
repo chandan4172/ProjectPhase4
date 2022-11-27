@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1248" started-at="2021-12-05T11:57:59Z" finished-at="2021-12-05T11:58:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1248" started-at="2021-12-05T11:57:59Z" finished-at="2021-12-05T11:58:00Z">
+      <class name="restAssured.project.GETRequest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:restAssured.project.GETRequest@8e24743]" name="setUp" is-config="true" duration-ms="43" started-at="2021-12-05T11:57:59Z" finished-at="2021-12-05T11:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createGET()[pri:0, instance:restAssured.project.GETRequest@8e24743]" name="createGET" is-config="true" duration-ms="255" started-at="2021-12-05T11:57:59Z" finished-at="2021-12-05T11:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createGET -->
+        <test-method status="PASS" signature="verifyUser()[pri:0, instance:restAssured.project.GETRequest@8e24743]" name="verifyUser" duration-ms="936" started-at="2021-12-05T11:57:59Z" finished-at="2021-12-05T11:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUser -->
+      </class> <!-- restAssured.project.GETRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
